@@ -1,0 +1,11 @@
+# IBM-EPBL-IBM-Project-17745-1659675802
+
+VirtualEye - Life Guard for Swimming Pools to Detect Active Drowning
+
+TEAM LEADER
+USHA C
+
+TEAM MEMBERS 
+VARSHINI.D
+YAZHINI V
+VIJAYALAKSHMI T
